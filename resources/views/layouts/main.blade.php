@@ -255,14 +255,73 @@
 </section>
 {{-- Akhir Login --}}
 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#7ab1f0" fill-opacity="1" d="M0,64L30,90.7C60,117,120,171,180,160C240,149,300,75,360,64C420,53,480,107,540,112C600,117,660,75,720,58.7C780,43,840,53,900,64C960,75,1020,85,1080,117.3C1140,149,1200,203,1260,192C1320,181,1380,107,1410,69.3L1440,32L1440,0L1410,0C1380,0,1320,0,1260,0C1200,0,1140,0,1080,0C1020,0,960,0,900,0C840,0,780,0,720,0C660,0,600,0,540,0C480,0,420,0,360,0C300,0,240,0,180,0C120,0,60,0,30,0L0,0Z"></path></svg>
+<selection class="bgImg-black">
+  <div class="col-padd">
+    <div class="container">
+      <h2 class="text-center">Blog Akan Nikah</h2>
+      <p class="text-center">
+        "Temukan berbagai berita seputar pernikahan yang kami hadirkan special untuk anda,"
+        <br>
+        " temukan inspirasi pernikahan anda atau orang-orang tersayang anda disini"
+      </p>
+      <hr size="10px" widht="50px" color="lightblue">
+      <div class="box-content">
+        <div class="row">
+          <div class="col-md-4">
+            <div class="box-item bg-white">
+
+            </div>
+          </div>
+        </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</selection>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#7ab1f0" fill-opacity="1" d="M0,128L48,144C96,160,192,192,288,186.7C384,181,480,139,576,149.3C672,160,768,224,864,218.7C960,213,1056,139,1152,117.3C1248,96,1344,128,1392,144L1440,160L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path></svg>
 <!-- Footer -->
  <footer class="text-muted mt-5">
-    <div class="container">
-        <p>Desined &copy; Daffa, 2022</p>
-        <p>Kembali Ke Home? <a href="/">Klik Disini</a>
+    <div class="footer-top">
+        <div class="row">
+            <div class="col-md-6 col-sm-6">
+                <div class="footer-widgets">
+                    <div class="widgets-title">
+                        <h4 style="color:#030303(41, 235, 16);">Akan Nikah by PT.Arfadhia Sejahtera Persada</h4>
+                    </div>
+                    <!-- .widgets-content -->
+                    <div class="address-box">
+                        <ul class="address">
+                            <li>
+                                <i class="fa fa-home" aria-hidden="true"></i>
+                                <span style="color: #030303 !important"><p>Kp. Wangun Tengah RT/RW&nbsp;04/02, RT.01/RW.05, Sindangsari, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16146</p></span>
+                            </li>
+                            <li>
+                                <i class="fa fa-phone" aria-hidden="true"></i>
+                                <span style="color:#030303 !important"><p>+6289638911187</p></span>
+                            </li>
+                            <li>
+                                <i class="fa fa-envelope-o" aria-hidden="true"></i>
+                                <span style="color:#030303 !important"><p>info@arfacloud.co.id</p></span>
+                           </li>
+                        </ul>
+                    </div>
+                    <!-- .address -->
+                </div>
+                <!-- .footer-widgets -->
+            </div>
+            <!-- .col-md-4 -->           
+        </div>
+        <!-- .row -->
     </div>
+    <!-- .footer-top -->        
+    </div>      
+<div class="container">
+    <p>Desined &copy; Daffa, 2022</p>
+    <p>Kembali Ke Home? <a href="/">Klik Disini</a>
+</div>
     
-  </footer>
+</footer>
 <!-- Akhir Footer -->
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
